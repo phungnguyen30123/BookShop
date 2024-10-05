@@ -1,0 +1,1629 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebBanSachDemo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebBanSachDemo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\404.html",
+      "PackagePath": "staticwebassets\\404.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\.gitignore",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\.gitignore"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\LICENSE",
+      "PackagePath": "staticwebassets\\LayoutAdmin"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\README.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\README.md"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\gulp-tasks\\inject.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\inject.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\gulp-tasks\\serve.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\serve.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\gulp-tasks\\vendors.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\vendors.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\gulpfile.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\index.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\index.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\package.json",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\package.json"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\pages\\samples\\blank-page.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\blank-page.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\pages\\samples\\error-404.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-404.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\pages\\samples\\error-500.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-500.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\LayoutAdmin\\screenshot.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\screenshot.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\cart.html",
+      "PackagePath": "staticwebassets\\cart.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\chackout.html",
+      "PackagePath": "staticwebassets\\chackout.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\18473bd4-dd9d-4019-8cde-579617fd1a36_image 1404 (34).png",
+      "PackagePath": "staticwebassets\\img\\18473bd4-dd9d-4019-8cde-579617fd1a36_image 1404 (34).png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\1a2eb9d1-341c-4e1a-be9c-bd8b7ae9714d_8935256603595.jpg",
+      "PackagePath": "staticwebassets\\img\\1a2eb9d1-341c-4e1a-be9c-bd8b7ae9714d_8935256603595.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\1b86803c-c833-48c4-bf1c-059e3d47ee44_2023_03_23_16_01_58_4-390x510.png",
+      "PackagePath": "staticwebassets\\img\\1b86803c-c833-48c4-bf1c-059e3d47ee44_2023_03_23_16_01_58_4-390x510.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\2020_10_05_13_50_17_1-390x510.jpg",
+      "PackagePath": "staticwebassets\\img\\2020_10_05_13_50_17_1-390x510.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\2020_10_05_13_50_17_2-390x510.jpg",
+      "PackagePath": "staticwebassets\\img\\2020_10_05_13_50_17_2-390x510.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\2021_07_13_18_33_09_2-390x510.jpg",
+      "PackagePath": "staticwebassets\\img\\2021_07_13_18_33_09_2-390x510.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\2023_03_06_16_37_20_1-390x510.png",
+      "PackagePath": "staticwebassets\\img\\2023_03_06_16_37_20_1-390x510.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\2023_03_06_16_37_20_2-390x510.png",
+      "PackagePath": "staticwebassets\\img\\2023_03_06_16_37_20_2-390x510.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\2023_03_20_13_42_58_4-390x510.jpg",
+      "PackagePath": "staticwebassets\\img\\2023_03_20_13_42_58_4-390x510.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\2023_03_20_13_42_58_6-390x510.jpg",
+      "PackagePath": "staticwebassets\\img\\2023_03_20_13_42_58_6-390x510.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\2023_03_23_16_01_58_11-390x510.png",
+      "PackagePath": "staticwebassets\\img\\2023_03_23_16_01_58_11-390x510.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\2023_03_23_16_01_58_2-390x510.png",
+      "PackagePath": "staticwebassets\\img\\2023_03_23_16_01_58_2-390x510.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\2023_03_23_16_01_58_4-390x510.png",
+      "PackagePath": "staticwebassets\\img\\2023_03_23_16_01_58_4-390x510.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\2023_06_09_17_36_46_1-390x510.jpg",
+      "PackagePath": "staticwebassets\\img\\2023_06_09_17_36_46_1-390x510.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\2023_06_09_17_36_46_4-390x510.jpg",
+      "PackagePath": "staticwebassets\\img\\2023_06_09_17_36_46_4-390x510.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\245fe70f-84b8-47f2-b685-72322f137b26_Screenshot 2024-06-04 103444.png",
+      "PackagePath": "staticwebassets\\img\\245fe70f-84b8-47f2-b685-72322f137b26_Screenshot 2024-06-04 103444.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\24f27018-d008-458a-9f84-35f1e47335c8_9786049996610-1.jpg",
+      "PackagePath": "staticwebassets\\img\\24f27018-d008-458a-9f84-35f1e47335c8_9786049996610-1.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\2ea06c97-f27c-42a5-87a6-7a737f05e0cf_ngoai-van-t1-24(1).jpg",
+      "PackagePath": "staticwebassets\\img\\2ea06c97-f27c-42a5-87a6-7a737f05e0cf_ngoai-van-t1-24(1).jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\3a59e29f-dfa3-4107-9895-e43f43efa0c5_Screenshot 2024-03-29 225321.png",
+      "PackagePath": "staticwebassets\\img\\3a59e29f-dfa3-4107-9895-e43f43efa0c5_Screenshot 2024-03-29 225321.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\4047d170-17a7-4a1c-8b16-b99c76b803d1_8932000133735_1.jpg",
+      "PackagePath": "staticwebassets\\img\\4047d170-17a7-4a1c-8b16-b99c76b803d1_8932000133735_1.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\40f0880c-61fb-4cdc-a5d4-1f87b0678331_image 1404 (29).png",
+      "PackagePath": "staticwebassets\\img\\40f0880c-61fb-4cdc-a5d4-1f87b0678331_image 1404 (29).png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\4ac6f37b-d998-403e-b51d-da1067e9a9d0_Screenshot 2024-06-10 214625.png",
+      "PackagePath": "staticwebassets\\img\\4ac6f37b-d998-403e-b51d-da1067e9a9d0_Screenshot 2024-06-10 214625.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\51f67fb1-20d7-4e3d-863f-9a57d8bbfec0_b_a-ph_bella-figura-toi-co-mot-chuyen-tinh.jpg",
+      "PackagePath": "staticwebassets\\img\\51f67fb1-20d7-4e3d-863f-9a57d8bbfec0_b_a-ph_bella-figura-toi-co-mot-chuyen-tinh.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\585d9545-33da-4047-a040-7f626ee890fb_Screenshot 2024-06-11 114257.png",
+      "PackagePath": "staticwebassets\\img\\585d9545-33da-4047-a040-7f626ee890fb_Screenshot 2024-06-11 114257.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\5bd8b65a-70c3-43a3-a281-9a4a18597116_Screenshot 2024-05-27 221524.png",
+      "PackagePath": "staticwebassets\\img\\5bd8b65a-70c3-43a3-a281-9a4a18597116_Screenshot 2024-05-27 221524.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\70b3c6a8-433f-4869-9356-97b7de9a4d3b_Screenshot 2024-03-27 084705.png",
+      "PackagePath": "staticwebassets\\img\\70b3c6a8-433f-4869-9356-97b7de9a4d3b_Screenshot 2024-03-27 084705.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\776ceb6b-8497-4373-aa45-1fe36764071f_Screenshot 2024-06-04 103444.png",
+      "PackagePath": "staticwebassets\\img\\776ceb6b-8497-4373-aa45-1fe36764071f_Screenshot 2024-06-04 103444.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\7a697f46-2f9e-4379-b087-425666f674ff_92125764_112563233728610_5467608760694341632_n.jpg",
+      "PackagePath": "staticwebassets\\img\\7a697f46-2f9e-4379-b087-425666f674ff_92125764_112563233728610_5467608760694341632_n.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\7ce4c13b-d01a-44ec-9841-ce11ed908c69_image 1404 (33).png",
+      "PackagePath": "staticwebassets\\img\\7ce4c13b-d01a-44ec-9841-ce11ed908c69_image 1404 (33).png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\801a5457-8d99-435b-8349-1cfc596a3a5e_Screenshot 2024-06-04 103444.png",
+      "PackagePath": "staticwebassets\\img\\801a5457-8d99-435b-8349-1cfc596a3a5e_Screenshot 2024-06-04 103444.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\8932000133735.jpg",
+      "PackagePath": "staticwebassets\\img\\8932000133735.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\8935256603595.jpg",
+      "PackagePath": "staticwebassets\\img\\8935256603595.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\8935325010736 (1).jpg",
+      "PackagePath": "staticwebassets\\img\\8935325010736 (1).jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\8935325010736.jpg",
+      "PackagePath": "staticwebassets\\img\\8935325010736.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\8936092561735-_3_.jpg",
+      "PackagePath": "staticwebassets\\img\\8936092561735-_3_.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\8936092561735-_5_.jpg",
+      "PackagePath": "staticwebassets\\img\\8936092561735-_5_.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\8936092561735.jpg",
+      "PackagePath": "staticwebassets\\img\\8936092561735.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\8b957c1e-057d-4273-b432-89c084a19fec_Screenshot 2024-05-31 070956.png",
+      "PackagePath": "staticwebassets\\img\\8b957c1e-057d-4273-b432-89c084a19fec_Screenshot 2024-05-31 070956.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\938a4bc7-0d97-4a30-9df4-ddd62ddc814b_9786048841676.jpg",
+      "PackagePath": "staticwebassets\\img\\938a4bc7-0d97-4a30-9df4-ddd62ddc814b_9786048841676.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\956d0505-6de5-49cb-a411-54277aaaf5a4_Screenshot 2024-03-29 185854.png",
+      "PackagePath": "staticwebassets\\img\\956d0505-6de5-49cb-a411-54277aaaf5a4_Screenshot 2024-03-29 185854.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\9786048841676 (1).jpg",
+      "PackagePath": "staticwebassets\\img\\9786048841676 (1).jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\997b83f7-4c95-417e-8b75-61fb752013e5_Screenshot 2024-03-29 205321.png",
+      "PackagePath": "staticwebassets\\img\\997b83f7-4c95-417e-8b75-61fb752013e5_Screenshot 2024-03-29 205321.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\9a8691b3-f39d-490e-8e3e-af8a8681483d_92125764_112563233728610_5467608760694341632_n.jpg",
+      "PackagePath": "staticwebassets\\img\\9a8691b3-f39d-490e-8e3e-af8a8681483d_92125764_112563233728610_5467608760694341632_n.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\9d87b51b-5633-461f-bc50-84dc4be6384a_image 1404 (35).png",
+      "PackagePath": "staticwebassets\\img\\9d87b51b-5633-461f-bc50-84dc4be6384a_image 1404 (35).png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\9eadfab6-ed90-4609-abfc-54e3a44248a0_Screenshot 2024-06-04 103440.png",
+      "PackagePath": "staticwebassets\\img\\9eadfab6-ed90-4609-abfc-54e3a44248a0_Screenshot 2024-06-04 103440.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\VanHoc_LDP_SKU_01.jpg",
+      "PackagePath": "staticwebassets\\img\\VanHoc_LDP_SKU_01.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\VanHoc_LDP_SKU_02.jpg",
+      "PackagePath": "staticwebassets\\img\\VanHoc_LDP_SKU_02.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\a52807f3-9cce-44e2-99bc-5be531ada97b_Screenshot 2024-05-28 213801.png",
+      "PackagePath": "staticwebassets\\img\\a52807f3-9cce-44e2-99bc-5be531ada97b_Screenshot 2024-05-28 213801.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\a6cbda2d-76ac-4188-a67d-7f4ee14d29cd_Screenshot 2024-06-06 215106.png",
+      "PackagePath": "staticwebassets\\img\\a6cbda2d-76ac-4188-a67d-7f4ee14d29cd_Screenshot 2024-06-06 215106.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\b_a-1-tr_n-l_n-m_i-nh_-_-kh_c-2 (1).jpg",
+      "PackagePath": "staticwebassets\\img\\b_a-1-tr_n-l_n-m_i-nh_-_-kh_c-2 (1).jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\b_a-1-tr_n-l_n-m_i-nh_-_-kh_c-2.jpg",
+      "PackagePath": "staticwebassets\\img\\b_a-1-tr_n-l_n-m_i-nh_-_-kh_c-2.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\b_a-ph_bella-figura-toi-co-mot-chuyen-tinh.jpg",
+      "PackagePath": "staticwebassets\\img\\b_a-ph_bella-figura-toi-co-mot-chuyen-tinh.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\b_a_1_tr_n-l_n-m_i-nh_-_-kh_c.jpg",
+      "PackagePath": "staticwebassets\\img\\b_a_1_tr_n-l_n-m_i-nh_-_-kh_c.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\baner-1.png",
+      "PackagePath": "staticwebassets\\img\\baner-1.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\banner-fruits.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-fruits.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\best-product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-1.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\best-product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-2.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\best-product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-3.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\best-product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-4.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\best-product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-5.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\best-product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-6.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\bookmark_tr_n-l_n-m_i-nh_-_-kh_c.jpg",
+      "PackagePath": "staticwebassets\\img\\bookmark_tr_n-l_n-m_i-nh_-_-kh_c.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\cart-page-header-img.jpg",
+      "PackagePath": "staticwebassets\\img\\cart-page-header-img.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\cfe929e7-9ee8-4eba-aaba-67d5b2d33ba3_Screenshot 2024-03-28 134343.png",
+      "PackagePath": "staticwebassets\\img\\cfe929e7-9ee8-4eba-aaba-67d5b2d33ba3_Screenshot 2024-03-28 134343.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\d130242e-f526-4d21-a979-8aba295e770e_Screenshot 2024-03-27 084705.png",
+      "PackagePath": "staticwebassets\\img\\d130242e-f526-4d21-a979-8aba295e770e_Screenshot 2024-03-27 084705.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\d58e2008-71bd-436e-9cf9-f6ae76ca8df4_92125764_112563233728610_5467608760694341632_n.jpg",
+      "PackagePath": "staticwebassets\\img\\d58e2008-71bd-436e-9cf9-f6ae76ca8df4_92125764_112563233728610_5467608760694341632_n.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\da8dfbd2-d2a1-4e24-bb2a-82f017bf8c5b_image 1404 (40).png",
+      "PackagePath": "staticwebassets\\img\\da8dfbd2-d2a1-4e24-bb2a-82f017bf8c5b_image 1404 (40).png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\edec13c2-7929-4de7-94f1-82ac038458ca_9780593189641.jpg",
+      "PackagePath": "staticwebassets\\img\\edec13c2-7929-4de7-94f1-82ac038458ca_9780593189641.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\ef65c87d-baf8-43e7-a957-b111ada37fac_Screenshot 2024-06-11 114257.png",
+      "PackagePath": "staticwebassets\\img\\ef65c87d-baf8-43e7-a957-b111ada37fac_Screenshot 2024-06-11 114257.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\f8582c8c-e444-4e2b-8410-2995f745dd34_Screenshot 2024-05-24 115732.png",
+      "PackagePath": "staticwebassets\\img\\f8582c8c-e444-4e2b-8410-2995f745dd34_Screenshot 2024-05-24 115732.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\fe123f0d-73ef-498a-ba32-0b0a65e161ce_2023_03_23_16_01_58_3-390x510.png",
+      "PackagePath": "staticwebassets\\img\\fe123f0d-73ef-498a-ba32-0b0a65e161ce_2023_03_23_16_01_58_3-390x510.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\single-item.jpg",
+      "PackagePath": "staticwebassets\\img\\single-item.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\shop-detail.html",
+      "PackagePath": "staticwebassets\\shop-detail.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\shop.html",
+      "PackagePath": "staticwebassets\\shop.html"
+    },
+    {
+      "Id": "C:\\LTWNC\\WebBanSachDemo\\WebBanSachDemo\\wwwroot\\testimonial.html",
+      "PackagePath": "staticwebassets\\testimonial.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebBanSachDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebBanSachDemo.props",
+      "PackagePath": "build\\WebBanSachDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebBanSachDemo.props",
+      "PackagePath": "buildMultiTargeting\\WebBanSachDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebBanSachDemo.props",
+      "PackagePath": "buildTransitive\\WebBanSachDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

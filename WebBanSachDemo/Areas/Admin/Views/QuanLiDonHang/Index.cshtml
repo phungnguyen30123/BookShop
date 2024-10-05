@@ -1,0 +1,68 @@
+﻿@using WebBanSachDemo.Helpers
+
+@{
+    ViewData["Title"] = "DanhMuC";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@model IEnumerable<WebBanSachDemo.Data.HoaDon>
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4">QUẢN LÍ ĐƠN HÀNG</h1>
+
+    @foreach (var hoaDon in Model)
+    {
+        <div class="card mb-4">
+            <div class="card-header">
+                <h2 class="card-title">Mã đơn hàng: @hoaDon.MaHd</h2>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <p><strong>Mã khách hàng</strong> @hoaDon.MaKh</p>
+                        <p><strong>Ngày đặt:</strong> @hoaDon.NgayDat</p>
+                        <p><strong>Tên khách hàng:</strong> @hoaDon.HoTen</p>
+                        <p><strong>Địa chỉ:</strong> @hoaDon.DiaChi</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p><strong>Điện Thoại:</strong> @hoaDon.DienThoai</p>
+                        <p><strong>Phương thức thanh toán:</strong> @hoaDon.CachThanhToan</p>
+                        <p><strong>Phí giao hàng:</strong> @hoaDon.PhiVanChuyen</p>
+                        <p><strong>Trạng thái:</strong> @hoaDon.MaTrangThai</p>
+                        <p><strong>Ghi chú đơn hàng:</strong> @hoaDon.GhiChu</p>
+                    </div>
+                </div>
+
+                <h3 class="mt-4">Đơn hàng chi tiết</h3>
+                <table class="table table-bordered table-striped mt-2">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Mã Hóa Đơn</th>
+                            <th>Mã sản phẩm</th>
+                            <th>Số lượng</th>
+                            <th>Tổng tiền</th>
+                            <th>Giảm giá</th>
+                            <th>Trạng Thái</th>
+                            <th>Hành động</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var chiTiet in hoaDon.ChiTietHds)
+                        {
+                            <tr >
+                                <td>@chiTiet.MaHd</td>
+                                <td>@chiTiet.MaHh</td>
+                                <td>@chiTiet.SoLuong</td>
+                                <td>@(chiTiet.DonGia * chiTiet.SoLuong)</td>
+                                <td>@chiTiet.GiamGia</td>
+                                <td style="@TrangThaiHelper.GetBackgroundColor(chiTiet.MaTrangThaiNavigation.TenTrangThai)">@chiTiet.MaTrangThaiNavigation.TenTrangThai</td>
+                                <td>
+                                    <a href="capnhatdonhang/@chiTiet.MaCt">Cập nhật</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewData["Title"] = "CapNhatDonHang";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@model WebBanSachDemo.Data.ChiTietHd
+@{
+    Func<string, int, string> truncate = (input, wordCount) =>
+    {
+        if (string.IsNullOrEmpty(input))
+            return input;
+
+        var words = input.Split(' ');
+        if (words.Length <= wordCount)
+            return input;
+
+        return string.Join(" ", words.Take(wordCount)) + "...";
+    };
+}
+<h1>Danh Sách Chi Tiết Hóa Đơn</h1>
+<form asp-action="CapNhatTrangThai" method="post">
+    <table class="table table-bordered table-striped mt-2">
+        <thead class="thead-dark">
+            <tr>
+                <th>Mã Hóa Đơn</th>
+                <th>Tên Sản Phẩm</th>
+                <th>Hình</th>
+                <th>Đơn Giá</th>
+                <th>Số Lượng</th>
+                <th>Tổng</th>
+                <th>Mã Trạng Thái</th>
+                <th>Giảm Giá</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Model.MaHd</td>
+                <td>@truncate(@Model.MaHhNavigation.TenHh, 7)</td>
+                <td><img src="~/img/@Model.MaHhNavigation.Hinh" alt="Hình ảnh" style="max-width: 100px; max-height: 100px;"></td>
+                <td>@string.Format("{0:0,0} VNĐ", @Model.DonGia)</td>
+                <td>@Model.SoLuong</td>
+                <td>@string.Format("{0:0,0} VNĐ", Model.SoLuong * Model.DonGia)</td>
+
+                <td>
+                    <select class="form-control" id="maTrangThai" name="MaTrangThai">
+                        @foreach (var trangThai in ViewBag.TrangThaiList)
+                        {
+                            <option value="@trangThai.MaTrangThai" @(trangThai.MaTrangThai == Model.MaTrangThai ? "selected" : "")>@trangThai.TenTrangThai</option>
+                        }
+                    </select>
+                </td>
+                <td>@Model.GiamGia</td>
+            </tr>
+        </tbody>
+    </table>
+    <button type="submit" class="btn btn-primary">Cập Nhật Trạng Thái</button>
+</form>
+

@@ -1,0 +1,306 @@
+﻿@model WebBanSachDemo.ViewModels.ChiTietHangHoaVM;
+@using System.Security.Claims;
+@{
+    ViewData["Title"] = "Detail";
+}
+
+@{
+    var user = Context.User as ClaimsPrincipal;
+    var emailClaim = user?.FindFirst(ClaimTypes.Email)?.Value;
+    var hoTenClaim = user?.FindFirst(ClaimTypes.Name)?.Value;
+    var customerIDClaim = user?.FindFirst("CustomerID")?.Value;
+    var roleClaim = user?.FindFirst(ClaimTypes.Role)?.Value;
+}
+<div class="container-fluid page-header py-5">
+    <h1 class="text-center text-white display-6">Chi tiết sản phẩm</h1>
+    <ol class="breadcrumb justify-content-center mb-0">
+        <li class="breadcrumb-item text-white">Trang Chủ</li>
+        <li class="breadcrumb-item text-white">Dịch Vụ Tiện Ích</li>
+    </ol>
+</div>
+<!-- Single Product Start -->
+<div class="container-fluid py-5 mt-5">
+    <div class="container py-5">
+        <div class="row g-4 mb-5">
+            <div class="col-lg-4 col-xl-3">
+                <div class="row g-4">
+                    <div class="col-lg-12">
+                        <ul style="border:0.5px outset gray; border-radius:3px;list-style-type: none; padding:0px">
+                            <div style="margin-top:20px"></div>
+                            @if (Model.HinhLienKet == null || !Model.HinhLienKet.Any())
+                            {
+                                <li style="text-align: center; display: flex; align-items: center;justify-content:center">
+                                <h4>Không có hình ảnh nào !!!</h4>
+                                </li>
+                            }
+                            else
+                            {
+                                @foreach (var item in Model.HinhLienKet)
+                                {
+                                <li style="text-align: center; display: flex; align-items: center;justify-content:center">
+                                    <a href="@item" style="width:150px;height:150px;overflow:hidden" class="d-flex justify-content-center image-link">
+                                            <img src="~/img/@item" alt="@item" style="width:auto; height:auto; object-fit:cover">
+                                    </a>
+                                    </li>
+                                 <hr>
+                                }
+                            }
+                        </ul>
+   
+                    </div>
+                    <div class="col-lg-12">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-8 col-xl-9">
+                <div class="row g-4">
+                    <div class="col-lg-6">
+                        <div class="border rounded">
+                            <a asp-action="Detail" asp-all-route-id="@Model.MaHH">
+                                <img src="~/img/@Model.Hinh" class="img-fluid rounded" alt="@Model.TenHH">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <h4 class="fw-bold mb-3">@Model.TenHH</h4>
+                        <div class="row">
+                            <p class="mb-3">Danh mục:@Model.TenLoai</p>
+                        <p class="mb-3">Tác giả:@Model.TacGia</p>
+                        </div>
+                        
+                        <h5 class="fw-bold mb-3">@string.Format("{0:0,0} VNĐ", @Model.DonGia)</h5>
+                        <div class="d-flex mb-4">
+                            <i class="fa fa-star text-secondary"></i>
+                            <i class="fa fa-star text-secondary"></i>
+                            <i class="fa fa-star text-secondary"></i>
+                            <i class="fa fa-star text-secondary"></i>
+                            <i class="fa fa-star"></i>
+                        </div>
+                        <p class="mb-4">@Model.MoTaNgan</p>
+                        <form asp-action="AddToCart" asp-controller="Cart" asp-route-id ="@Model.MaHH">
+                            <div class="input-group quantity mb-5" style="width: 100px;">
+                                <div class="input-group-btn">
+                                    <button class="btn btn-sm btn-minus rounded-circle bg-light border" type="button">
+                                        <i class="fa fa-minus"></i>
+                                    </button>
+                                </div>
+                                <input type="text" class="form-control form-control-sm text-center border-0" value="1" data-id="quantity">
+                                <div class="input-group-btn">
+                                    <button class="btn btn-sm btn-plus rounded-circle bg-light border" type="button">
+                                        <i class="fa fa-plus"></i>
+                                    </button>
+                                </div>
+                            </div>
+                            @* <button href="#" class="" class="btn-add-to-cart btn border border-secondary rounded-pill px-4 py-2 mb-4 text-primary" data-id="@Model.MaHH"><i class="fa fa-shopping-bag me-2 text-primary"></i>Thêm vào giỏ hàng</button> *@
+                            @* <button class="btn-add-to-cart btn border-secondary text-uppercase text-primary" data-id="@Model.MaHH">Thêm vào giỏ hàng <i class="fa fa-shopping-bag me-2 text-primary"></i></button> *@
+                            <button class="btn-add-to-cart btn border border-secondary rounded-pill px-4 py-2 mb-4 text-primary" data-id="@Model.MaHH">Thêm vào giỏ hàng  <i class="fa fa-shopping-bag me-2 text-primary"></i> </button>
+                        </form>
+                        
+                        
+                    </div>
+                    <div class="col-lg-12">
+                        <nav>
+                            <div class="nav nav-tabs mb-3">
+                                <button class="nav-link active border-white border-bottom-0" type="button" role="tab"
+                                        id="nav-about-tab" data-bs-toggle="tab" data-bs-target="#nav-about"
+                                        aria-controls="nav-about" aria-selected="true">
+                                    Thông tin sản phẩm
+                                </button>
+                                <button class="nav-link border-white border-bottom-0" type="button" role="tab"
+                                        id="nav-mission-tab" data-bs-toggle="tab" data-bs-target="#nav-mission"
+                                        aria-controls="nav-mission" aria-selected="false">
+                                   Đánh giá
+                                </button>
+                            </div>
+                        </nav>
+                        <div class="tab-content mb-5">
+                            <div class="tab-pane active" id="nav-about" role="tabpanel" aria-labelledby="nav-about-tab">
+                                @Model.ChiTiet
+                                <div class="px-2">
+                                    <div class="row g-4">
+                                     
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane" id="nav-mission" role="tabpanel" aria-labelledby="nav-mission-tab">
+
+                              @*   Bình Luận *@
+                                
+                                    @if (Model.BinhLuan == null || !Model.BinhLuan.Any())
+                                    {
+                                    <div class="d-flex">
+                                        <li style="text-align: center; display: flex; align-items: center;justify-content:center">
+                                            <h4>Không có sự phản hồi nào</h4>
+                                        </li>
+                                    </div>
+                                    }
+                                    else
+                                    {
+                                    <div id="commentContainer">
+                                        @foreach (var item in Model.BinhLuan)
+                                        {
+                                            <div class="comment">
+                                                <div class="d-flex">
+                                                    <i class="fas fa-user fa-2x img-fluid rounded-circle p-3" style="width: 100px; height: 100px;"></i>
+                                                    <div class="">
+                                                        <p class="mb-2" style="font-size: 14px;">@item.NgayBinhLuan</p>
+                                                        <div class="d-flex">
+                                                            <h5 style="text-align:start">@item.TenKH</h5>
+                                                            <div class="d-flex mb-3" style="text-align:end">
+                                                                <i class="fa fa-star text-secondary"></i>
+                                                                <i class="fa fa-star text-secondary"></i>
+                                                                <i class="fa fa-star text-secondary"></i>
+                                                                <i class="fa fa-star text-secondary"></i>
+                                                                <i class="fa fa-star"></i>
+                                                            </div>
+                                                        </div>
+                                                        <p>
+                                                            @item.BinhLuan
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        }
+                                    </div>
+                                    <button style="background-color:#ffffff;cursor:pointer;border:none" id="showMoreBtn">Xem thêm ...</button>
+
+                                    }
+
+                                <form id="commentForm" method="post" asp-action="BinhLuanS" asp-controller="HangHoa" asp-route-id="@Model.MaHH">
+                                    <div class="row form-item">
+                                        <div class="col-md-9">
+                                            <input id="binhluan" name="binhluan" class="form-control py-3 px-4" />
+                                            <input id="hoten" name="hoten" type="hidden" value="@hoTenClaim" />
+                                        </div>
+                                        <div class="col-md-3">
+                                            <button type="submit" class="btn border-secondary py-3 px-4 text-uppercase text-primary" style="width:100%">Phản Hồi</button>
+                                        </div>
+                                    </div>
+                                </form>
+                                @* Bình Luận *@
+                            </div>
+                            <div class="tab-pane" id="nav-vision" role="tabpanel">
+                                <p class="text-dark">
+                                    Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam
+                                    amet diam et eos labore. 3
+                                </p>
+                                <p class="mb-0">
+                                    Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.
+                                    Clita erat ipsum et lorem et sit
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                   
+                </div>
+            </div>
+           
+        </div>
+  
+    </div>
+</div>
+<!-- Single Product End -->
+<script>
+    var showMoreBtn = document.getElementById("showMoreBtn");
+    var commentContainer = document.getElementById("commentContainer");
+    var comments = commentContainer.getElementsByClassName("comment");
+    var showMoreText = "Xem thêm...";
+    var hideCommentsText = "...Thu bình luận";
+    var isExpanded = false;
+    showMoreBtn.addEventListener("click", function () {
+        if (isExpanded) {
+            // Thu bình luận
+            for (var i = 5; i < comments.length; i++) {
+                comments[i].style.display = "none";
+            }
+            showMoreBtn.textContent = showMoreText;
+            isExpanded = false;
+        } else {
+            // Xem thêm
+            for (var i = 5; i < comments.length; i++) {
+                comments[i].style.display = "block";
+            }
+            showMoreBtn.textContent = hideCommentsText;
+            isExpanded = true;
+        }
+    });
+
+    // Ẩn các bình luận còn lại ngoại trừ 5 đầu tiên
+    for (var i = 5; i < comments.length; i++) {
+        comments[i].style.display = "none";
+    }
+    $(document).ready(function () {
+        $('#commentForm').on('submit', function (e) {
+            e.preventDefault(); // Ngăn chặn form gửi đi theo cách thông thường
+
+            var form = $(this);
+            $.ajax({
+                type: form.attr('method'),
+                url: form.attr('action'),
+                data: form.serialize(),
+                success: function (response) {
+                    if (response.success) {
+                        Swal.fire({
+                            title: 'Thành công!',
+                            text: response.message,
+                            icon: 'success',
+                            confirmButtonText: 'OK'
+                        }).then(function () {
+                            // Sau khi người dùng nhấn OK, load lại trang
+                            window.location.reload();
+                        });
+                    } else {
+                        Swal.fire({
+                            title: 'Thất bại!',
+                            text: response.message,
+                            icon: 'error',
+                            confirmButtonText: 'OK'
+                        });
+                    }
+                },
+                error: function () {
+                    Swal.fire({
+                        title: 'Lỗi!',
+                        text: 'Vui Lòng Đăng Nhập',
+                        icon: 'error',
+                        confirmButtonText: 'OK'
+                    });
+                }
+            });
+        });
+        
+        $('.btn-add-to-cart').on('click', function (e) {
+            e.preventDefault(); // Ngăn chặn hành vi mặc định của nút
+
+            var productId = $(this).data('id');
+            var quantity = $(this).closest('form').find('input[data-id="quantity"]').val();
+            $.ajax({
+                url: '/Cart/AddToCart',
+                type: 'POST',
+                data: { id: productId, quantity: quantity },
+                success: function (response) {
+                    if (response.success) {
+                        // Hiển thị cảnh báo và chờ người dùng nhấn OK
+                        Swal.fire({
+                            title: 'Thành công!',
+                            text: 'Sản phẩm đã được thêm vào giỏ hàng.',
+                            icon: 'success',
+                            confirmButtonText: 'OK'
+                        }).then(function () {
+                            // Sau khi người dùng nhấn OK, load lại trang
+                            window.location.reload();
+                        });
+                    } else {
+                        Swal.fire({
+                            title: 'Thành công',
+                            text: 'Sản phẩm đã tồn tại trong giỏ hàng',
+                            icon: 'success',
+                            confirmButtonText: 'OK'
+                        });
+                    }
+                }
+            });
+        });
+
+    });
+</script>

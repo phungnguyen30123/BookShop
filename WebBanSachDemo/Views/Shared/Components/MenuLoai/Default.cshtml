@@ -1,0 +1,21 @@
+﻿@model IEnumerable<WebBanSachDemo.ViewModels.MenuLoaiVM>
+
+<div class="col-lg-12">
+	<div class="mb-3">
+		<h2>Danh mục</h2>
+		<ul class="list-unstyled fruite-categorie">
+			@foreach (var item in Model)
+			{
+				<li>
+					<div class="d-flex justify-content-between fruite-name">
+						<a asp-controller="HangHoa" asp-action="Index" asp-route-loai="@item.MaLoai" style="color:#1d2115" class="dropdown-item">
+							<i class="fas fa-plus me-2"></i>@item.TenLoai
+						</a>
+						<span>(@item.SoLuong)</span>
+					</div>
+				</li>
+			}
+
+		</ul>
+	</div>
+</div>

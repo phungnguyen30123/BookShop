@@ -1,0 +1,104 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model WebBanSachDemo.Data.HangHoa
+
+@{
+    ViewData["Title"] = "ThemSanPhamMoi";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Thêm Sản Phẩm</h1>
+<hr />
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <form method="post" asp-action="ThemSanPhamMoi" enctype="multipart/form-data">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="TenHh" class="control-label">Tên</label>
+                <input asp-for="TenHh" class="form-control" />
+                <span asp-validation-for="TenHh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TenAlias" class="control-label">Tên Alias</label>
+                <input asp-for="TenAlias" class="form-control" />
+                <span asp-validation-for="TenAlias" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaLoai" class="control-label">Loại</label>
+                <select asp-for="MaLoai" class="form-control" asp-items="ViewBag.MaLoai"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="TacGia" class="control-label">Tác giả</label>
+                <input asp-for="TacGia" class="form-control" />
+                <span asp-validation-for="TacGia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaNcc" class="control-label">Nhà cung cấp</label>
+                <select asp-for="MaNcc" class="form-control" asp-items="ViewBag.MaNcc"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaNxb" class="control-label">Nhà xuất bản</label>
+                <select asp-for="MaNxb" class="form-control" asp-items="ViewBag.MaNxb"></select>
+            </div>
+            <div class="form-group">
+                <label for="HinhFiles" class="control-label">Hình</label>
+                <input type="file" name="HinhFiles" id="HinhFiles" class="form-control" multiple onchange="previewImages();" />
+                <div id="imagePreviewContainer" class="mt-2"></div>
+            </div>
+            <div class="form-group">
+                <label asp-for="NgaySx" class="control-label">Ngày xuất bán</label>
+                <input asp-for="NgaySx" class="form-control" />
+                <span asp-validation-for="NgaySx" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DonGia" class="control-label">Đơn giá</label>
+                <input asp-for="DonGia" class="form-control" />
+                <span asp-validation-for="DonGia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GiamGia" class="control-label">Giảm giá</label>
+                <input asp-for="GiamGia" class="form-control" />
+                <span asp-validation-for="GiamGia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MoTa" class="control-label">Mô tả</label>
+                <input asp-for="MoTa" class="form-control" />
+                <span asp-validation-for="MoTa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Thêm sản phẩm</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        function previewImages() {
+            var previewContainer = document.getElementById('imagePreviewContainer');
+            previewContainer.innerHTML = '';
+            var files = document.getElementById('HinhFiles').files;
+
+            if (files) {
+                [].forEach.call(files, readAndPreview);
+            }
+
+            function readAndPreview(file) {
+                if (!/\.(jpe?g|png|gif)$/i.test(file.name)) {
+                    return alert(file.name + " is not an image file");
+                }
+
+                var reader = new FileReader();
+                reader.addEventListener("load", function () {
+                    var image = new Image();
+                    image.width = 100;
+                    image.height = 100;
+                    image.title = file.name;
+                    image.src = this.result;
+                    previewContainer.appendChild(image);
+                });
+                reader.readAsDataURL(file);
+            }
+        }
+    </script>
+}

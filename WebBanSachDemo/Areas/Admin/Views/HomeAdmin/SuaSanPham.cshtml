@@ -1,0 +1,101 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model WebBanSachDemo.Data.HangHoa
+
+@{
+    ViewData["Title"] = "SuaSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Cập nhật sản phẩm</h1>
+
+<h4>HangHoa</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="SuaSanPham" asp-area="admin" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="MaHh" />
+            <div class="form-group">
+                <label class="control-label">Tên Sản Phẩm</label>
+                <input asp-for="TenHh" class="form-control" />
+                <span asp-validation-for="TenHh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Tên Alias</label>
+                <input asp-for="TenAlias" class="form-control" />
+                <span asp-validation-for="TenAlias" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Mã Loại</label>
+                <select asp-for="MaLoai" class="form-control" asp-items="ViewBag.MaLoai"></select>
+                <span asp-validation-for="MaLoai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Tác giả</label>
+                <input asp-for="TacGia" class="form-control" />
+                <span asp-validation-for="TacGia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Nhà cung cấp</label>
+                <select asp-for="MaNcc" class="form-control" asp-items="ViewBag.MaNcc"></select>
+                <span asp-validation-for="MaNcc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Nhà Xuất Bán</label>
+                <select asp-for="MaNxb" class="form-control" asp-items="ViewBag.MaNxb"></select>
+                <span asp-validation-for="MaNxb" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Hình</label>
+                <input type="file" name="HinhFiles" id="HinhFiles" asp-for="Hinh" class="form-control" onchange="previewImage(event)" />
+                @if (!string.IsNullOrEmpty(Model.Hinh))
+                {
+                    <p>Hình hiện tại</p>
+                    <img id="currentImage" src="~/img/@Model.Hinh" alt="Hình hiện tại" style="max-width: 100px; height: 100px;" />
+                }
+                <p>Hình cập nhật</p>
+                <img id="preview" src="#" alt="Hình xem trước" style="display:none; max-width: 100px; height: 100px;" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Ngày sản xuất</label>
+                <input asp-for="NgaySx" class="form-control" />
+                <span asp-validation-for="NgaySx" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Đơn giá</label>
+                <input asp-for="DonGia" class="form-control" />
+                <span asp-validation-for="DonGia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Giám giá</label>
+                <input asp-for="GiamGia" class="form-control" />
+                <span asp-validation-for="GiamGia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Mô tả</label>
+                <input asp-for="MoTa" class="form-control" />
+                <span asp-validation-for="MoTa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Lưu sản phẩm</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="SanPham" asp-controller="HomeAdmin" asp-area="admin">Quay lại</a>
+</div>
+@section Scripts {
+    <script type="text/javascript">
+        function previewImage(event) {
+            var reader = new FileReader();
+            reader.onload = function () {
+                var output = document.getElementById('preview');
+                output.src = reader.result;
+                output.style.display = 'block';
+            };
+            reader.readAsDataURL(event.target.files[0]);
+        }
+    </script>
+}

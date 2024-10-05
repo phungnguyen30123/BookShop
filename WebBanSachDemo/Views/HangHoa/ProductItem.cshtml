@@ -1,0 +1,63 @@
+﻿@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<WebBanSachDemo.ViewModels.HangHoaVM>
+@foreach (var items in Model)
+{
+    <div class="col-md-6 col-lg-6 col-xl-4">
+
+            <div class="rounded position-relative fruite-item">
+                <div class="fruite-img">
+                    <a asp-action="Detail" asp-controller="HangHoa" asp-route-id="@items.MaHH" >
+                    <img src="~/img/@items.Hinh" class="img-fluid w-100 rounded-top" alt="Mô tả về hình ảnh" style="width: 100%; height: 100%; object-fit: cover;">
+                    </a>
+                </div>
+                <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">@items.TenLoai</div>
+                <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                    <a asp-action="Detail" asp-controller="HangHoa" asp-route-id="@items.MaHH">
+                        <p id="tenHH" style="font-size:20px;font-weight:bold;color:#1d2115; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 200px;">@items.TenHH</p>
+                    </a>
+                    <p style="font-size:15px; color:#1d2115">@items.MoTaNgan</p>
+                    <div class="d-flex justify-content-between flex-lg-wrap">
+                        <p class="text-dark fs-5 fw-bold mb-0">@string.Format("{0:0,0} VNĐ", @items.DonGia)</p>
+                    @* <a asp-action="AddToCart" asp-controller="Cart" asp-route-id ="@items.MaHH" class="btn border border-secondary px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i>Thêm vào giỏ hàng</a> *@
+                    <div >
+                        <button class="btn-add-to-cart btn border-secondary text-uppercase text-primary" data-id="@items.MaHH">Thêm vào giỏ hàng <i class="fa fa-shopping-bag me-2 text-primary"></i></button>
+                    </div>
+                </div>
+                </div>
+            </div>
+    </div>
+}
+<script>
+    $(document).ready(function () {
+        $('.btn-add-to-cart').click(function () {
+            var productId = $(this).data('id');
+            $.ajax({
+                url: '/Cart/AddToCart',
+                type: 'POST',
+                data: { id: productId },
+                success: function (response) {
+                    if (response.success) {
+                        // Hiển thị cảnh báo và chờ người dùng nhấn OK
+                        Swal.fire({
+                            title: 'Thành công!',
+                            text: 'Sản phẩm đã được thêm vào giỏ hàng.',
+                            icon: 'success',
+                            confirmButtonText: 'OK'
+                        }).then(function () {
+                            // Sau khi người dùng nhấn OK, load lại trang
+                            window.location.reload();
+                        });
+                    } else {
+                        Swal.fire({
+                            title: 'Thành công',
+                            text: 'Sản phẩm đã tồn tại trong giỏ hàng',
+                            icon: 'success',
+                            confirmButtonText: 'OK'
+                        });
+                    }
+                }
+            });
+        });
+    });
+
+</script>

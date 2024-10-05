@@ -1,0 +1,36 @@
+﻿@model WebBanSachDemo.Data.HangHoa
+
+@{
+    ViewData["Title"] = "Quản Lý Ảnh";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Quản lý ảnh cho sản phẩm: @Model.TenHh</h1>
+
+<form asp-action="QuanLyAnh" asp-route-id="@Model.MaHh" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="HinhFiles">Chọn ảnh:</label>
+        <input type="file" name="HinhFiles" multiple class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Tải lên</button>
+</form>
+
+<h2>Hình ảnh hiện tại</h2>
+<div>
+    @if (ViewBag.HinhAnhs != null && ViewBag.HinhAnhs.Count > 0)
+    {
+        <ul class="horizontal-list">
+            @foreach (var hinhAnh in ViewBag.HinhAnhs)
+            {
+                <li>
+                    <img src="@Url.Content("~/img/" + hinhAnh.Hinh)" alt="Hình ảnh" style="max-width: 100px; max-height: 100px;" />
+                </li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>Chưa có hình ảnh.</p>
+    }
+</div>
+

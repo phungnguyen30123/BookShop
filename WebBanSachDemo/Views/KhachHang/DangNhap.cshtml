@@ -1,0 +1,39 @@
+﻿@model WebBanSachDemo.ViewModels.LoginVM;
+@{
+    ViewData["Title"] = "Đăng Nhập";
+}
+
+<div class="container py-5 mt-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-6 col-xl-4">
+            <form asp-action="DangNhap" asp-route-returnurl="@ViewBag.ReturnUrl" style="margin-top:100px; margin-bottom:50px;border:solid 1px gray;padding:50px;border-radius:20px">
+                <div class="text-danger" asp-validation-summary="All"></div>
+                <div class="row">
+                    <h1 class="mb-4 text-center">Đăng Nhập</h1>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-md-12">
+                        <div class="form-item">
+                            <label asp-for="@Model.UserName" class="form-label my-3"></label><sup>*</sup>
+                            <input asp-for="@Model.UserName" class="form-control" />
+                            <span asp-validation-for="@Model.UserName" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-md-12">
+                        <div class="form-item">
+                            <label asp-for="@Model.Password" class="form-label my-3"></label><sup>*</sup>
+                            <input asp-for="@Model.Password" class="form-control" />
+                            <span asp-validation-for="@Model.Password" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <button class="btn border-secondary py-3 px-4 text-uppercase text-primary" style="width:100%; margin:20px 0" type="submit">Đăng nhập</button>
+                    <a class="text-center" asp-controller="KhachHang" asp-action="QuenMatKhau" style="width:100%">Quên mật khẩu?</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,17 @@
+﻿@model IEnumerable<WebBanSachDemo.Data.Loai>
+
+@{
+    ViewData["Title"] = "Loại Sản Phẩm";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Loại Sản Phẩm</h1>
+
+<ul>
+    @foreach (var loai in Model)
+    {
+        <li><a href="@Url.Action("SanPham", new { categoryId = loai.MaLoai })">@loai.TenLoai</a></li>
+    }
+</ul>
+
+
